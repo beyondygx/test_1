@@ -4,3 +4,5 @@ reload(sys)
 sys.setdefaultencodign("utf-8")
 
 print 'hello world'
+
+print 'added'
