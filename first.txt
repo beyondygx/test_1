@@ -2,3 +2,5 @@ sudo apt-add-repository ppa:git-core/ppa
 sudo apt-get update 
 
 git remote add origin https://github.com/beyondygx/beyondygx.git
+
+aaa
